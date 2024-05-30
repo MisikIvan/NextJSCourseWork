@@ -6,6 +6,7 @@ import { Redressed} from "next/font/google";
 const redressed = Redressed({subsets: ['latin'], weight: ['400']});
 const NavBar = () => {
     return ( <div className="
+    text-white
     sticky
     top-0
     w-full

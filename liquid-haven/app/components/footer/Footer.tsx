@@ -32,11 +32,9 @@ const Footer = () => {
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
             <h3 className="text-base font-bold mb-2">About Us</h3>
             <p className="mb-2">
-              At our electronics store, we are dedicated to providing the latest
-              and greatest devices and accessories to our customers. With a wide
-              selection of phones, TVs, laptops, watches, and accessories.
+            On our liquor website, we strive to offer our customers the best and variety of alcoholic beverages. In our assortment you will find a wide selection of wine, whiskey, cognac, as well as exclusive and rare drinks from all over the world.
             </p>
-            <p>&copy; {new Date().getFullYear()} E~Shop. All rights reserved</p>
+            <p>&copy; {new Date().getFullYear()} Liquid Haven. All rights reserved</p>
           </div>
           <FooterList>
             <h3 className="text-base font-bold mb-2">Follow Us</h3>
